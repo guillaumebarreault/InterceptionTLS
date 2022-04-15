@@ -1,0 +1,8 @@
+policy: 
+Country Name (2 letter code) [AU]:fr
+State or Province Name (full name) [Some-State]:fr
+Locality Name (eg, city) []:toulon
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:isen
+Organizational Unit Name (eg, section) []:crypto
+Common Name (e.g. server FQDN or YOUR name) []:isen_RootCA	//customCA_...
+Email Address []:isen@isen.yncrea.fr
